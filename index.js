@@ -68,7 +68,7 @@ module.exports = function (app) {
 
 			// An object of options to indicate where to post to
 			var post_options = {
-				host: 'qmb.azurewebsites.net',
+				host: 'quartermaster.me',
 				// port: 80,
 				path: url,
 				method: 'POST',
