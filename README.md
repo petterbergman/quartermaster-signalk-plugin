@@ -1,0 +1,1 @@
+# quartermaster-signalk-plugin
