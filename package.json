@@ -1,0 +1,17 @@
+{
+  "name": "quartermaster-signalk-plugin",
+  "version": "1.0.0",
+  "description": "QuarterMaster SignalK Plugin",
+  "main": "index.js",
+  "signalk-plugin-enabled-by-default": false,
+  "scripts": {
+    "test": "DEBUG=quartermaster-signalk-plugin signalk-server --sample-nmea0183-data"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "signalk-node-server-plugin",
+    "signalk-category-nmea-0183",
+    "signalk-category-utility"
+  ]
+}
